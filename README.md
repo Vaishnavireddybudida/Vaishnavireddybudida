@@ -14,8 +14,15 @@
 ---
 
 ### 🥗 Featured Projects:
-- 🍽️ [Canteen Ordering System](https://github.com/Vaishnavireddybudida/canteen-ordering-system)
-- 🧘 [Abled Fitness Foundation Website](https://github.com/Vaishnavireddybudida/abled-fitness-foundation)
+- 🍽️ [Canteen Ordering System](https://github.com/Vaishnavireddybudida/canteen-ordering-system)  
+  A frontend-based food ordering system with login, cart, and responsive UI.
+
+- 🧘 [Abled Fitness Foundation Website](https://github.com/Vaishnavireddybudida/abled-fitness-foundation)  
+  An inclusive and accessible website for a nonprofit supporting differently-abled individuals.
+
+- 🔐 [Crack The Code Game](https://github.com/Vaishnavireddybudida/crack-the-code-game)  
+  A logic puzzle game built with HTML, Bootstrap, and JavaScript that challenges users to guess the secret code using clues.
+
 
 
 ---
