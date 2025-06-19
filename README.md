@@ -26,8 +26,11 @@
 ---
 
 ### 📫 Contact Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/budida-vaishnavi)
-- 📧 vaishnavireddy818@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/budida-vaishnavi)
+- 📧 Email: vaishnavireddy818@gmail.com
+
+### 📊 GitHub Stats:
+![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vaishnavireddybudida&show_icons=true&theme=radical)
 
 ---
 
