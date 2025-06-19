@@ -14,8 +14,9 @@
 ---
 
 ### 🥗 Featured Projects:
-- 🍽️ [Canteen Ordering System](https://github.com/Vaishnavireddybudida/canteen-ordering-system) – A responsive frontend system to browse, order, and track food items. *(Backend in progress)*
-- 🧘 [Abled Fitness Foundation Website](https://github.com/Vaishnavireddybudida/abled-fitness-foundation) – Inclusive website for a foundation supporting people with physical challenges.
+- 🍽️ [Canteen Ordering System](https://github.com/Vaishnavireddybudida/canteen-ordering-system)
+- 🧘 [Abled Fitness Foundation Website](https://github.com/Vaishnavireddybudida/abled-fitness-foundation)
+
 
 ---
 
