@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Vaishnavi B!
 
-🎓 I'm a B.Tech 2nd-year student at Siddhartha Institute of Engineering and Technology, aiming to become a **Java Full Stack Developer** by 2026.
+🎓 I'm a B.Tech 3rd-year student at Siddhartha Institute of Engineering and Technology, aiming to become a **Java Full Stack Developer** by 2026.
 
 ---
 
